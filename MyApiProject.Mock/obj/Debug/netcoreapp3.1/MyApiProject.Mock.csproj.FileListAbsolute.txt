@@ -1,0 +1,13 @@
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\bin\Debug\netcoreapp3.1\MyApiProject.Mock.deps.json
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\bin\Debug\netcoreapp3.1\MyApiProject.Mock.dll
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\bin\Debug\netcoreapp3.1\MyApiProject.Mock.pdb
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\bin\Debug\netcoreapp3.1\MyApiProject.Repositories.dll
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\bin\Debug\netcoreapp3.1\MyApiProject.Repositories.pdb
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\obj\Debug\netcoreapp3.1\MyApiProject.Mock.csproj.AssemblyReference.cache
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\obj\Debug\netcoreapp3.1\MyApiProject.Mock.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\obj\Debug\netcoreapp3.1\MyApiProject.Mock.AssemblyInfoInputs.cache
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\obj\Debug\netcoreapp3.1\MyApiProject.Mock.AssemblyInfo.cs
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\obj\Debug\netcoreapp3.1\MyApiProject.Mock.csproj.CoreCompileInputs.cache
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\obj\Debug\netcoreapp3.1\MyApiProject.Mock.csproj.CopyComplete
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\obj\Debug\netcoreapp3.1\MyApiProject.Mock.dll
+C:\תמי\c#\MyApiProject\MyApiProject.Mock\obj\Debug\netcoreapp3.1\MyApiProject.Mock.pdb

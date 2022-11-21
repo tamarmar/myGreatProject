@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyApiProject.Mock/1.0.0": {
+        "dependencies": {
+          "MyApiProject.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "MyApiProject.Mock.dll": {}
+        }
+      },
+      "MyApiProject.Repositories/1.0.0": {
+        "runtime": {
+          "MyApiProject.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyApiProject.Mock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyApiProject.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

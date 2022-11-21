@@ -1,0 +1,10 @@
+C:\תמי\c#\MyApiProject\MyApiProject.Repositories\bin\Debug\netcoreapp3.1\MyApiProject.Repositories.deps.json
+C:\תמי\c#\MyApiProject\MyApiProject.Repositories\bin\Debug\netcoreapp3.1\MyApiProject.Repositories.dll
+C:\תמי\c#\MyApiProject\MyApiProject.Repositories\bin\Debug\netcoreapp3.1\MyApiProject.Repositories.pdb
+C:\תמי\c#\MyApiProject\MyApiProject.Repositories\obj\Debug\netcoreapp3.1\MyApiProject.Repositories.csproj.AssemblyReference.cache
+C:\תמי\c#\MyApiProject\MyApiProject.Repositories\obj\Debug\netcoreapp3.1\MyApiProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמי\c#\MyApiProject\MyApiProject.Repositories\obj\Debug\netcoreapp3.1\MyApiProject.Repositories.AssemblyInfoInputs.cache
+C:\תמי\c#\MyApiProject\MyApiProject.Repositories\obj\Debug\netcoreapp3.1\MyApiProject.Repositories.AssemblyInfo.cs
+C:\תמי\c#\MyApiProject\MyApiProject.Repositories\obj\Debug\netcoreapp3.1\MyApiProject.Repositories.csproj.CoreCompileInputs.cache
+C:\תמי\c#\MyApiProject\MyApiProject.Repositories\obj\Debug\netcoreapp3.1\MyApiProject.Repositories.dll
+C:\תמי\c#\MyApiProject\MyApiProject.Repositories\obj\Debug\netcoreapp3.1\MyApiProject.Repositories.pdb
